@@ -1,0 +1,9 @@
+1. npm i -g nodemon
+2. npm init -y
+3. npm i express
+4. fs.readir
+5. setting up view engine ejs 
+6. create route
+   
+7. edit route
+8. 
